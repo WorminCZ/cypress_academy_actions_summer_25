@@ -1,0 +1,15 @@
+{
+  "name": "cypress_academy_actions_summer_25",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.5.4"
+  }
+}
